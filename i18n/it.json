@@ -1,0 +1,38 @@
+[
+  {
+    "id": "career_nav_link",
+    "translation": "Lavora con noi"
+  },
+  {
+    "id": "news_nav_link",
+    "translation": "Notizie"
+  },
+  {
+    "id": "quick_links",
+    "translation": "Klever Wallet App"
+  },
+  {
+    "id": "ecosystem_links",
+    "translation": "Ecosistema Klever"
+  },
+  {
+    "id" : "telegram_title",
+    "translation": "Gruppi Ufficiali Telegram"
+  },
+  {
+    "id" : "telegram_warning",
+    "translation": "Non inviare mai né il tuo seed né la tua chiave privata nei gruppi o in privato. Il nostro team di supporto non ti chiederà mai questo tipo di informazioni, quindi tienile al sicuro."
+  },
+  {
+    "id" : "faq_title",
+    "translation": "Domande Frequenti"
+  },
+  {
+    "id": "android_button_alt",
+    "translation" : "Download Android Wallet"
+  },
+  {
+    "id": "apple_button_alt",
+    "translation" : "Download Apple Wallet"
+  }
+]
